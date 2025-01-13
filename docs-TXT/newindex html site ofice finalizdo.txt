@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIlena Confeittaria</title>
+    <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="stylecss/style.css">
+    <link rel="stylesheet" href="stylecss/mobile.css">
+    <link rel="stylesheet" href="feedback.php">
+</head>
+<body>
+      <section class="container-texto">
+            <nav id="navbar">
+                <div id="navbar-container" >
+                    <!-- <h1 class="logo">Milena Confeittaria</h1> -->
+                        <ul id="navbar-itens">
+                            <li><a href="#showcase">Início</a></li>
+                            <li><a href="#sobre-nos">Sobre nós</a></li>
+                            <li><a href="#gallery">Galeria</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <div id="logo-contato">
+                    <a id="logo-contato" href="https://www.instagram.com/milena_confeittaria?igsh=YXA3dXlhaDNqOXo3" target="_blank"><img src="./img/insta-1.jpg" alt="imagem instagram"></a>
+                    <a id="logo-contato" href="https://wa.me/5521974174702" target="_blank"><img id="logo-contato" src="img/whatts-01.jpg" alt="imagem whatsapp"></a>
+                </div>
+                
+                <section id="features">
+                    <div class="headline">Início</div>
+                    <div id="features-container">
+                        <div class="feature">
+                            <!-- <i class="fas fa-tachometer-alt fa-3x"></i> -->
+                            <!-- <span class="feature-title">Lorem ipsum dolor sit amet.</span> -->
+                            <p class="inicio">Minha paixão pela gastronomia começa na minha infância, quando fiz meu primeiro doce, foi um pudim de laranja que eu gostava de fazer. Hoje, minha especialidade na confeitaria é decoração em chantininho. Desenvolvi esta página para mostrar um pouco do meu trabalho e dividir minha experiência com você, que um dia pensa em empreender.
+                            </p>
+                            <!-- <i class="fas fa-tachometer-alt fa-3x"></i> -->
+                            <!-- <span class="feature-title">Lorem ipsum dolor sit amet.</span> -->
+                            <p class="inicio">Alguns momentos foram muito difíceis, geraram traumas e acumularam bagagem na minha história. </p>
+                            <p class="inicio">Nem sempre eu soube o que fazer ou como tirar algo bom disso, as vezes  tudo o que eu conseguia naquele momento era chorar, rezar, me desculpar e tentar aprender.</p>
+                            <p class="inicio">
+                            Eu sei o quanto as coisas podem ser difíceis ao longo dessa caminhada, e saiba que eu pensei em desistir centenas de vezes e eu tive o apoio de pessoas que não me deixaram desistir do meu sonho e por isso eu estou aqui por você e te falando:
+                            <i><strong>NÃO DESISTA!</strong></i> Isso é só uma fase e nós podemos aprender com ela e ser confeiteiros  melhores.</p>
+                
+                
+                            <!-- <i class="fas fa-tachometer-alt fa-3x"></i> -->
+                            <!-- <span claSobre nóstle">Lorem ipsum dolor sit amet.</span> -->
+                            <p class="inicio">Muitos irão falar que nunca vai dar certo e que você não chegará a lugar nenhum, mas só você e Deus são capazes de saber o seu limite.</p>
+                        </div>
+                
+                    <div class="headlineobjetivosnós</div>
+                    <div id="features-container">
+                        <div class="feature" id="sobre-nos">
+                            <!-- <i class="fas fa-tachometer-alt fa-3Sobre nós-->
+                             <!-- <span class="feature-title">Lorem ipsum dolor sit amet.</span> -->
+                                <div class="headline">Missão</div>
+                             <p class="inicio">- Produzir, fornecer e distribuir doces com elevado padrão de qualidade, prezando pela excelência no atendimento e respeito pelos   seus clientes.</p>
+                             <p class="inicio">- Crescimento e desenvolvimento pleno na área alimenticia,  Mantendo  a qualidade, sabor, e tradição dos  verdadeiros Doces Caseiros.</p>
+                             <div class="headline">Visão</div>
+                             <p class="inicio">- A Milena confeittaria pretende estar entre as  melhores, mais lembradas e respeitadas Empresas de seu segmento.</p>
+                             <div class="headline">Valores</div>
+                             <p class="inicio">- Busca constante da melhoria e qualidade  de seus produtos, na logística e no atendimento às necessidades de seus clientes.</p>
+                             <p class="inicio"> - Comprometimento ético e valorização dos  colaboradores, distribuidores e fornecedores.</p>
+                             <p class="inicio">- Ética, Empreendedorismo, Transparência, Responsabilidade Social e ambiental, Credibilidade nos serviços, e Total higiene com os  produtos fabricados.</p>
+                        </div>
+                        <div class="feature">
+                            <!-- <i class="fas fa-tachometer-alt fa-3x"></i> -->
+                            <!-- <span class="feature-title">Lorem ipsum dolor sit amet.</span> -->
+                            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores animi laboriosam illo, doloremque placeat et.</p> -->
+                        </div>
+                        <div class="feature">
+                            <!-- <i class="fas fa-tachometer-alt fa-3x"></i> -->
+                            <!-- <span class="feature-title">Lorem ipsum dolor sit amet.</span> -->
+                            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores animi laboriosam illo, doloremque placeat et.</p> -->
+                        </div>
+                        <nav class="slidecircle">
+                            <div class="box">
+                                <span style="--i:6"><img src="img/02.jpg" alt=""></span>
+                                <span style="--i:1"><img src="img/03.jpg" alt=""></span>
+                                <span style="--i:2"><img src="img/04.jpg" alt=""></span>
+                                <span style="--i:3"><img src="img/07.jpg" alt=""></span>
+                                <span style="--i:4"><img src="img/05.jpg" alt=""></span>
+                                <span style="--i:5"><img src="img/09.jpg" alt=""></span>
+                                <span style="--i:3"><img src="img/014.jpg" alt=""></span>
+                                <span style="--i:7"><img src="img/07.jpg" alt=""></span>
+                                <span style="--i:8"><img src="img/012.jpg" alt=""></span>
+                                <span style="--i:9"><img src="img/11.jpg" alt=""></span>
+                                <span><img id="logo-milena" src="../site-ofice/img/logo.jpg" alt=""></span>
+                            </div>
+                        </nav>
+                    
+            </section>
+            </section>
+                <divi id="foto-legenda">
+                    <figure class="foto-legenda">
+                        <img id="foto-logo" src="./img/logo.jpg">
+                        <figcaption>
+                            <h3>Olá!</h3>
+                            <h3> Voce sonha. Nós realizamos.</h3>
+                        </figcaption>
+                    </figure>
+                </divi>
+                </div>
+                <!-- <div class="headline" id="galeria">Galeria</div> -->
+                <nav class="depoimentos">            
+                </nav>
+                
+                <div class="headline">Galeria</div>
+                <section id="gallery">
+                    <div id="gallery-container">
+                        <img src="img/7.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/014.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/9.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/3-1.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/11.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/13.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/02.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/03.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/04.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/05.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/06.jpg" alt="imagens empresa" class="gallery-image">
+                        <img src="img/07.jpg" alt="imagens empresa" class="gallery-image">
+                </div>
+            </div>
+            
+            <div class="content">
+                <div class="slides">
+                    <input class="inputof" type="radio" name="slide" id="slide1" checked>
+                    <input class="inputof" type="radio" name="slide" id="slide2">
+                    <input class="inputof" type="radio" name="slide" id="slide3">
+                    <input class="inputof" type="radio" name="slide" id="slide4">
+                    <input class="inputof" type="radio" name="slide" id="slide5">
+                    <div class="slide s1">
+                        <img src="img/logo.jpg" alt="imagem de bolo">
+                    </div>
+                    <div class="slide">
+                        <img src="img/05.jpg" alt="imagem de bolo">
+                    </div>
+                    <div class="slide">
+                        <img src="img/011.jpg" alt="imagem de bolo">
+                    </div>
+                    <div class="slide">
+                        <img src="img/13.jpg" alt="imagem de bolo">
+                    </div>
+                    <div class="slide">
+                        <img src="img/7.jpg" alt="imagem de bolo">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="navigation">
+                <label class="bar" for="slide1"></label>
+                <label class="bar" for="slide2"></label>
+                <label class="bar" for="slide3"></label>
+                <label class="bar" for="slide4"></label>
+                <label class="bar" for="slide5"></label>
+            </div>
+            
+                </section>
+                <div class="container">
+                    <div class="fotos">
+                        <ul>
+                            <li>
+                                <img src="img/05.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/13.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/04.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/014.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/7.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/05.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/13.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/04.jpg" alt="fotos">
+                            </li>
+            
+                            <li>
+                                <img src="img/14.jpg" alt="fotos">
+                            </li>
+                            <li>
+                                <img src="img/7.jpg" alt="fotos">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                </nav>
+                <script src="./script.js"></script>
+                <main class="cards">
+                    <section class="card card1">
+                        <div class="icon"><img src="img/14.jpg" alt=" foto pessoa"></div>
+                        <h3>MIlena falou</h3>
+                        <span><p>Aquela receita que ninguém dispensa: veja como fazer pudim de leite condensado simples e rápido, em um passo a passo de apenas 40 minutos. Contando com apenas 5 ingredientes, essa receita de pudim de leite consensado é sucesso garantido!</p></span>
+                        <button>Lear More</button>
+                    </section>
+                    <section class="card card2">
+                        <div class="icon"><img src="img/9.jpg" alt=" foto pessoa"></div>
+                        <h3>Para um momento especial</h3>
+                        <span><p>Até a receita mais simples pode ficar linda. É isso que defende Milena Confeittaria, confeiteira no comando da marca "Feito com Amor". Ela compartilhou com Nossa o preparo de um bolo de chocolate fácil que dá vontade de começar a comer pelos olhos. A massa é feita a partir de ovos e açúcar batidos com óleo e também leva farinha de trigo, chocolate, fermento, sal e água quente. A cobertura cremosa de brigadeiro, por sua vez, combina chocolate amargo picado e em pó.</p></span>
+                        <button>Lear More</button>
+                    </section>
+                    <section class="card card3">
+                        <div class="icon"><img src="img/8.jpg" alt=" foto pessoa"></div>
+                        <h3>Dica da casa</h3>
+                        <span><p>Um bolo de chocolate fofinho, rápido e simples de fazer junto com uma xícara de café às vezes é tudo que a gente precisa para curar onde dói em uma tarde chuvosa. Essa receita é prática e não precisa de batedeira, sendo feita no liquidificador. Para garantir que o bolo de chocolate cresça e fique macio como a gente gosta, é importante que a gente respeite o tempo de bater a massa no eletrodoméstico indicado na receita. Isso permite que as fibras da farinha criem a trama que segura as bolhas criadas pelo fermento e que garantem o crescimento do bolo. A calda de calda de chocolate cobre o bolo finalizando tudo e deixando ainda mais delicioso. Se você quiser completar, pode adicionar chocolate granulado ao topo para o bolo ficar bem "chocolatudo". Não esqueça de untar a forma para que o bolo saia por inteiro e depois de 40 minutos, você terá o melhor bolo de chocolate saindo do seu forno.  </p></span>
+                        <button>Lear More</button>
+                    </sectio>
+                </main>
+                    <nav id="formulario-feedback">
+                        <legend>Feedback</legend>
+                        <section id="formulario">
+                            <form class="formulario" action="https://formsubmit.co/el/weheda/flavioleonardosrosa@gmail.com" method="post">
+                                 <p class="feedback">
+                                    <label class="nome" for="nome">Nome</label>
+                                    <input type="text" name="nome" id="nome" placeholder="Digite seu nome" required autocomplete="off">
+            
+                                </p>
+                                <label class="email" for="email"> E-mail</label>
+                                    <input id="email" type="email" name="email" method="post" placeholder="Digite seu E-mail" autocomplete="off" required>
+            
+                                <p class="mensagem">
+                                    <label class="mensagem" for="imsg">Mensagem:</label> <br>
+                                    <textarea id="mensagem" name="msg" id="imsg" cols="50 " rows="20" required></textarea>
+                                </p>
+                                <p class="input">
+                                    <input class="button" type="submit" value="Enviar">
+                                    <input  class="button" type="reset" value="Limpar">
+                                </p>
+                            </form>
+                        </section>
+
+                    </nav>
+        <footer>
+            <p> Todos os direitos reservados &COPY;Flavio Leonardo</p>
+        </footer>            
+</body>
+</html>

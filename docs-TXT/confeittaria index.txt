@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MilenaConfeittaria</title>
+    <link rel="stylesheet" href="estilos/style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <picture>
+            <figure>
+                <img id="foto-logo" src="./img/logo.jpg" alt="">
+            </figure>
+                <figcaption>
+                    <h3 class="titulo">Realizando sonhos em forma de arte</h3>
+                </figcaption>   
+        </picture>
+
+    </header>        
+            <main class="content">
+                <main class="slides">
+                    <input class="input" type="radio" name="slide" id="slide1" checked>
+                    <input class="input" type="radio" name="slide" id="slide2">
+                    <input class="input" type="radio" name="slide" id="slide3">
+                    <input class="input" type="radio" name="slide" id="slide4">
+                    <input class="input" type="radio" name="slide" id="slide5">
+
+                    <main class="slide s1">
+                        <img class="foto-bolo" src="./img/7.jpg" alt="imagem de bolo">
+                    </main>
+                    <main class="slide">
+                        <img class="foto-bolo" src="./img/8.jpg" alt="imagem de bolo">
+                    </main>
+                    <main class="slide">
+                        <img class="foto-bolo" src="./img/9.jpg" alt="imagem de bolo">
+                    </main>
+                    <main class="slide">
+                        <img class="foto-bolo" src="./img/11.jpg" alt="imagem de bolo">
+                    </main>
+                    <main class="slide">
+                        <img class="foto-bolo" src="./img/13.jpg" alt="imagem de bolo">
+                </main>
+                </main>
+                </main>
+            <main class="navigation">
+                <label class="bar" for="slide1"></label>
+                <label class="bar" for="slide2"></label>
+                <label class="bar" for="slide3"></label>
+                <label class="bar" for="slide4"></label>
+                <label class="bar" for="slide5"></label>
+            </main>
+            
+                <nav class="slidecircle">
+            <div class="box">
+                <span style="--i:6"><img src="../site-ofice/img/6.jpg" alt=""></span>
+                <span style="--i:1"><img src="../site-ofice/img/6.jpg" alt=""></span>
+                <span style="--i:2"><img src="../site-ofice/img/2.jpg" alt=""></span>
+                <span style="--i:3"><img src="../site-ofice/img/3.jpg" alt=""></span>
+                <span style="--i:4"><img src="../site-ofice/img/4.jpg" alt=""></span>
+                <span style="--i:5"><img src="../site-ofice/img/5.jpg" alt=""></span>
+                <span style="--i:3"><img src="../site-ofice/img/13.jpg" alt=""></span>
+                <span style="--i:7"><img src="../site-ofice/img/7.jpg" alt=""></span>
+                <span style="--i:8"><img src="../site-ofice/img/8.jpg" alt=""></span>
+                <span style="--i:9"><img src="../site-ofice/img/logo-flavio leonardo.jpg" alt=""></span>
+                <span><img id="logo-milena" src="../site-ofice/img/logo.jpg" alt=""></span>
+            </div>
+        </nav>
+
+</body>
+</html>

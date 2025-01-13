@@ -1,0 +1,21 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root {
+    --cor1: #F2C5FA; --cor2: #F2AEFA; --cor17:#E5DD16;
+    --cor3: #DC8EE5; --cor4: #D875E1; --cor18:#ffffff;
+    --cor5: #D16ADC; --cor6: #c5ebd6;
+    --cor7: #83e1ad; --cor8: #3ddc84;
+    --cor9: #2fa866; --cor10:#1a5c37;
+    --cor11:#063d1e; --cor12:#F5F3AF;
+    --cor13:#F5F278; --cor14:#F5F145;
+    --cor15:#FAF62A; --cor16:#E6E418;
+    --fonte-padrao: arial, verdana, helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neue', cursive;
+    --fonte-android: 'Android', cursive;
+
+
+Senha site
